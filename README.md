@@ -3,4 +3,4 @@ ejercicio de la clase
 # holaaaaaa
 tengo sueño
 
-help
+/help
